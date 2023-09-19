@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using bookApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -30,6 +31,7 @@ namespace bookApp.Controllers
             return Ok(books);
         }
 
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> Create(Book book)
         {
@@ -37,6 +39,7 @@ namespace bookApp.Controllers
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetAll), new { id = book.Id }, book);
         }
+
     }
 }
 

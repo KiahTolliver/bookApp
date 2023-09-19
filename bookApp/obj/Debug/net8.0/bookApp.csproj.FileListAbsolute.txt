@@ -6,6 +6,7 @@
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/bookApp.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/bookApp.pdb
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Humanizer.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
@@ -19,6 +20,12 @@
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/Mono.TextTemplating.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
@@ -33,6 +40,7 @@
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/System.Composition.Hosting.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/System.Composition.Runtime.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /Users/kiah.tolliver/Projects/bookApp/bookApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -115,6 +123,7 @@
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/bookApp.csproj.CoreCompileInputs.cache
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/bookApp.MvcApplicationPartsAssemblyInfo.cs
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/bookApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/bookApp.sourcelink.json
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/staticwebassets.build.json
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/staticwebassets.development.json
 /Users/kiah.tolliver/Projects/bookApp/bookApp/obj/Debug/net8.0/staticwebassets/msbuild.bookApp.Microsoft.AspNetCore.StaticWebAssets.props
